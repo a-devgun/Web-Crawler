@@ -1,6 +1,4 @@
-/==================\
-|    WEB CRAWLER   |
-\==================/
+# WEB CRAWLER
 
 This script can be used to crawl wikipedia. This script was created keeping the following conditions in mind - 
 
@@ -12,15 +10,13 @@ This script can be used to crawl wikipedia. This script was created keeping the 
 6. At max 1000 unique URL's are to be crawled or depth 5 whichever is earliest.
 7. There should be a time delay of 1 second between consecutive page requests.
 
-SETUP
-=====
+## SETUP
 
 1. Download the latest version of python - "Python 3.5.0".
 2. Install PyCharm.
 3. Execute code. 
 
-ABOUT THE CODE
-==============
+## ABOUT THE CODE
 
 1. This crawler used Breadth First Search approach. That is first it will scan depth 1 and then all links of depth 2 and so on.
 
@@ -28,7 +24,6 @@ ABOUT THE CODE
 
 3. File output is written in a file - 'links.txt' 
 
-CONTACT
-=======
+## CONTACT
 
 Please contact 'Anirudh Devgun' at 'devgun.a@husky.neu.edu' in case of any issues.
